@@ -16,5 +16,4 @@ class Dog
     @dogs_breed
   end
 
-  
 end
